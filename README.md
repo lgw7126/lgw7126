@@ -9,6 +9,7 @@
 ## 🐾 지금 만들고 있는 것
 
 [**FUR-EVER LOVE (다시가족)**](https://github.com/lgw7126/Claude-furever-love-app) — 유기동물 입양 매칭 앱
+https://furever-love-app.vercel.app
 
 공공데이터(APMS API) 기반으로, 관심에서 소외된 동물이 발견될 확률을 높이는 매칭 서비스입니다. 규칙 기반 100점 매칭 스코어, 노출 공정성 로직, 공고 마감 임박 동물 우선 노출을 설계했습니다. Next.js + Firebase, 현재 개발 진행 중. 🚧
 
